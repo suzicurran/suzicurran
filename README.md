@@ -5,7 +5,7 @@ I'm a creative and practical software developer living in Boston, MA. I'm curren
 I greatly enjoy open source development and I maintain several C# projects in enterprise use:
 - :a: [AeroSharp](https://github.com/wayfair-incubator/AeroSharp), which provides features like serialization and compression on top of the .NET Aerospike client
 - 🗣️ [Gossip](https://github.com/wayfair-incubator/Gossip), which adds to [Dapper](https://github.com/DapperLib/Dapper)'s functionality for quick and easy queries on your relational DB of choice
-- 📃 which extends the basic serialization/deserialization functionality of System.Text.Json with support for missing types
+- 📃 [WaySON](https://github.com/wayfair-incubator/WaySON), which extends the basic serialization/deserialization functionality of System.Text.Json with support for missing types
 
 In addition, I also developed and maintain mod tooling for the 2022 indie game "I Was a Teenage Exocolonist":
 - :package: [ExomodPackager](https://github.com/suzicurran/ExomodPackager), which packages .exo file changes as patches for distribution
