@@ -1,6 +1,6 @@
 # 👋 I'm Suzi Curran
 
-I'm a creative and practical software developer living in Boston, MA. I'm currently working for Wayfair as a senior software engineer, building highly scalabale and performant services to support a catalog of millions of products. Sometimes I [write](https://www.aboutwayfair.com/suzi-curran) about my work!
+I'm a creative and practical developer living in Boston, MA. I'm currently working for Wayfair as a senior software engineer, building highly scalabale and performant services to support a catalog of millions of products. Sometimes I [write](https://www.aboutwayfair.com/suzi-curran) about my work!
 
 I greatly enjoy open source development and I maintain several C# projects in enterprise use:
 - :a: [AeroSharp](https://github.com/wayfair-incubator/AeroSharp), which provides features like serialization and compression on top of the .NET Aerospike client
