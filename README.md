@@ -1,6 +1,8 @@
 # 👋 I'm Suzi Curran
 
-I'm a creative and practical developer living in Boston, MA. I'm currently working for Wayfair as a senior software engineer, building highly scalable and performant services to support a catalog of millions of products. Sometimes I [write](https://www.aboutwayfair.com/suzi-curran) about my work!
+> :warning: :airplane: I'm currently AFK on a 3-month long sabbatical trip across Japan. If you're interested in photos as much as PRs, see [my Instagram](https://instagram.com/suzicurran).
+
+I'm a creative and practical developer living in Boston, MA. Until Fall 2023, I was working with Wayfair as a senior software engineer and building highly scalable and performant services to support a catalog of millions of products. You can [read](https://www.aboutwayfair.com/suzi-curran) more about my work.
 
 I greatly enjoy open source development and I maintain several C# projects in enterprise use:
 - :a: [AeroSharp](https://github.com/wayfair-incubator/AeroSharp), which provides features like serialization and compression on top of the .NET Aerospike client
@@ -12,6 +14,6 @@ In addition, I also developed and maintain mod tooling for the 2022 indie game "
 - :rocket: [ExomodLoader](https://github.com/suzicurran/ExomodLoader), which handles for both game and mod version updates, mod conflicts, and more
 
 Still here? Maybe you're looking for something like...
-- 🌱 My current interests: at the moment I'm learning Powershell, Japanese, and how to create voxel art
+- 🌱 My current interests: learning N3-level Japanese kanji, prompt engineerng
 - 😄 My pronouns: she/her
 - 💼 My LinkedIn: https://www.linkedin.com/in/suzicurran/
