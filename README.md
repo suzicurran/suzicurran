@@ -1,6 +1,6 @@
 # 👋 I'm Suzi Curran
 
-> :warning: :airplane: I'm currently AFK on a 3-month long sabbatical trip across Japan. If you're interested in photos as much as PRs, see [my Instagram](https://instagram.com/suzicurran).
+> :warning: :airplane: I'm currently AFK on a 3-month long sabbatical trip across Japan. If you're interested in photos as much as PRs, see [Instagram](https://instagram.com/suzicurran).
 
 I'm a creative and practical developer living in Boston, MA. Until Fall 2023, I was working with Wayfair as a senior software engineer and building highly scalable and performant services to support a catalog of millions of products. You can [read](https://www.aboutwayfair.com/suzi-curran) more about my work.
 
