@@ -2,7 +2,7 @@
 
 I'm a creative and practical developer living in Boston, MA. I worked at Wayfair from 2017 to 2023 as a senior software engineer and built scalable, performant services to support a catalog of millions of products. You can [read](https://www.aboutwayfair.com/suzi-curran) more about my work.
 
-I've recently returned from a 3-month sabbatical in Japan and am getting back into frontend work with a TypeScript project. 
+I've recently returned from a 3-month sabbatical in Japan and am getting back into frontend work with a TypeScript project.  
 You can :koko: [follow along](https://github.com/suzicurran/kanakomplete) as I build tools to manage my personal Japanese lexicon.
 
 I also greatly enjoy open source development and professionally contributed to several C# projects now in enterprise use:
